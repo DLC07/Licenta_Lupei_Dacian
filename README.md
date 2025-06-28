@@ -1,9 +1,4 @@
 -----------------------------------------------------------------------------
-Repository
-link-ul pentru github repository: https://github.com/DLC07/Licenta_Lupei_Dacian
------------------------------------------------------------------------------
-
------------------------------------------------------------------------------
 1. Aplicația Python
 
 Deschide un terminal (Command Prompt / PowerShell / Terminal / Git Bash) și rulează comanda:
