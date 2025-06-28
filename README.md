@@ -28,9 +28,9 @@ Instalarea dependențelor
 Rularea aplicației
 
 	python app.py
------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------
+
 2. Aplicatie Raspberry PI
 
 Scriptul de pe Raspberry poate fi activat in doua moduri:
@@ -63,12 +63,13 @@ Pentru scenariu ii). avem următoarea configurare:
 Rularea aplicatiei:
 
 	- Se acționează butonul F5 pentru rulare
------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------
+
 Pentru a se putea realiza conexiunea wireless intre cele doua dispozitive este nevoie de urmatoarele modificari:
 
 - ambele dispozitive trebuie să fie conectate la aceeași rețea
 - se deschide script-ul app.py cu un IDE la alegere
 - se modifica linia 28 prin schimbare adresei IP cu adresa ip curenta a raspberry Pi-ului (dupa "tcp/...; portul 7447 rămâne intact")
+
 -----------------------------------------------------------------------------
